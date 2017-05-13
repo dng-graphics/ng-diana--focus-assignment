@@ -1,0 +1,279 @@
+#banner{
+   position: absolute;
+   align-items: center;
+   width: 100%;
+   left: 100px;
+}
+#logo{
+	position: absolute;
+	left: 570pt;
+	font-family: Pacifico;
+	top: 90px;
+	z-index: 1;
+	font-size: 53pt;
+}
+#arrow{
+	position: absolute;
+	top: 230px;
+	left: 525px;
+	text-align: center;
+	font-family: Raleway Light;
+	font-size: 30pt;
+}
+#iPhone{
+	position: absolute;
+	top: 413px;
+	left: 655px;
+}
+#angle{
+	position: absolute;
+	top: 845px;
+	left: 950px;
+}
+#whitedot{
+	position: absolute;
+	top: 615px;
+	left: 930px; 
+	z-index: 1;
+}
+#whitedot2{
+	position: absolute;
+	top: 710px;
+	left: 800px;
+	z-index: 1;
+}
+#blackdot{
+	position: absolute;
+	top: 820px;
+	left: 930px;
+	z-index: 1;
+}
+#whitedot3{
+	position: absolute;
+	top: 915px;
+	left: 800px;
+	z-index: 1;
+}
+#background1{
+	position: absolute;
+	width: 1600px;
+	height: 425px;
+	background-color: #e3e3e3;
+	top: 1225px;
+	left: 100px;
+	z-index: -1;
+}
+#appleicon{
+	position: absolute;
+	top: 1470px;
+	left: 230px;
+}
+#androidicon{
+	position: absolute;
+	top: 1470px;
+	left: 330px;
+}
+#windowsicon{
+	position: absolute;
+	top: 1470px;
+	left: 420px;
+}
+#video{
+	position: absolute;
+	top: 1275px;
+	left: 970px;
+}
+#play{
+	position: absolute;
+	top: 1530px;
+	left: 990px;
+	z-index: 1;
+}
+#videobar{
+	position: absolute;
+	top: 1530px;
+	left: 1075px;
+	z-index: 1;
+}
+#cursor{
+	position: absolute;
+	top: 1510px;
+	left: 455px;
+	z-index: 1;
+}
+#people{
+	position: absolute;
+	top: 1800px;
+	left: 100px;
+}
+#person{
+	position: absolute;
+	top: 1880px;
+	left: 1015px;
+	z-index: 1;
+}
+#cursor2{
+	position: absolute;
+	top: 1935px;
+	left: 1025px;
+	z-index: 2;
+}
+#twitter{
+	position: absolute;
+	top: 2300px;
+	left: 770px;
+}
+#facebook{
+	position: absolute;
+	top: 2300px;
+	left: 815px;
+}
+#pinterest{
+	position: absolute;
+	top: 2300px;
+	left: 860px;
+}
+#google{
+	position: absolute;
+	top: 2300px;
+	left: 905px;
+}
+#linkedin{
+	position: absolute;
+	top: 2300px;
+	left: 950px;
+}
+#youtube{
+	position: absolute;
+	top: 2300px;
+	left: 995px;
+}
+#cursor3{
+	position: absolute;
+	top: 2320px;
+	left: 875px;
+	z-index: 1;
+}
+#cursor4{
+	position: absolute;
+	top: 838px;
+	left: 943px;
+	z-index: 2;
+}
+#background2{
+	position: absolute;
+	width: 1600px;
+	height: 150px;
+	background-color: #e3e3e3;
+	top: 2390px;
+	left: 100px;
+	z-index: -1;
+}
+h1{
+	font-family: Raleway Semibold;
+	font-size: 18pt;
+	color: #000000;
+}
+#ptext1{
+	position: absolute;
+	width: 400px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 750px;
+	left: 280px;
+	line-height: 22pt;
+}
+#ptext2{
+	position: absolute;
+	width: 400px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 750px;
+	left: 1140px;
+	line-height: 22pt;
+}
+#ptext3{
+	position: absolute;
+	width: 400px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 925px;
+	left: 280px;
+	line-height: 22pt;
+}
+#ptext4{
+	position: absolute;
+	width: 400px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 925px;
+	left: 1140px;
+	line-height: 22pt;
+}
+h2{
+	font-family: Raleway Semibold;
+	font-size: 20pt;
+	color: #000000;
+}
+#ptext5{
+	position: absolute;
+	width: 650px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 1280px;
+	left: 225px;
+	line-height: 22pt;
+}
+#quote{
+	position: absolute;
+	font-family: Raleway;
+	font-size: 22pt;
+	color: #000000;
+	top: 1675px;
+	left: 370px;
+	text-align: center;
+}
+h3{
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #000000;
+	text-align: center;
+}
+strong{
+	font-family: Raleway Semibold;
+	font-size: 14pt;
+	font-weight: bolder;
+	color: #000000;
+	text-align: center;
+}
+#ptext6{
+	position: absolute;
+	width: 650px;
+	font-family: Raleway;
+	font-size: 14pt;
+	color: #848484;
+	top: 2190px;
+	left: 590px;
+	line-height: 14pt;
+}
+h4{
+	font-family: Raleway Semibold;
+	font-size: 22pt;
+	color: #000000;
+	text-align: center;
+}
+#footer{
+	position: absolute;
+	top: 2455px;
+	left: 550px;
+	font-family: Raleway;
+	font-size: 12pt;
+	color: #848484;
+	text-align: center;
+	word-spacing: 5pt;
+}
